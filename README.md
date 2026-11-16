@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **repositoro/repositoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,6 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Toro+Ababil+%F0%9F%91%8B;Android+%26+Full-Stack+Developer;Building+Fotorgrafi+%26+Laravel+Systems)](https://git.io/typing-svg)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=repositoro&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff)
 
